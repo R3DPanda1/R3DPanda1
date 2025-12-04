@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**R3DPanda1/R3DPanda1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![R3DPanda](r3dpanda_terminal.png)
 
-Here are some ideas to get you started:
+Electronics & IoT developer. Building embedded projects, IoT connected devices, and some app development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Tech Stack**
+
+`C++` `Python` `JavaScript` `HTML/CSS` `Kotlin\Swift\Dart` `Go`
+
+**Electronics & Platforms**
+
+`ESP23` `STM32` `Arduino` `Raspberry Pi`
+
+**Protocols**
+
+`REST` `MQTT` `LoRaWAN` `OneM2M`
+
+**Other**
+
+3D Printing & CAD Design [MakerWorld Profile](https://makerworld.com/de/@R3DPanda)
+
+---
