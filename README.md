@@ -1,5 +1,5 @@
 
-![R3DPanda](r3dpanda_terminal.png)
+![R3DPanda](r3dpanda_terminal_new.png)
 
 Electronics & IoT developer. Building embedded projects, IoT connected devices, and some app development.
 
